@@ -10,8 +10,12 @@ aside: false
 
 {% include figure.html image="/figures/pager-elisha-bio.jpg" position="right" %}
 
-I am a PhD candidate in the mechanical and aerospace engineering department at the University of Florida. I work in the Vehicle Dynamics and Optimization Lab [(VDOL)](http://www.anilvrao.com/Research.html) under my advisor Dr. Anil Rao. My research is in the area of optimal control with a focus on computational methods for nonsmooth and singular optimal control and  relevance to complex aerospace applications.
+Elisha Pager graduated with a Bachelor of Science in aerospace engineering from the University of Florida (UF) in May 2018. She began graduate level study in the Department of Mechanical & Aerospace Engineering at UF and joined the Vehicle Dynamics and Optimization Laboratory [(VDOL)](http://www.anilvrao.com/Research.html) in August 2018. Her interests include computational and
+numerical methods for solving singular optimal control problems and applications for optimal control theory. She received her Master of Science in mechanical engineering from UF in May 2020. Shortly after, she was selected to join the Graduate Scholars Program (GSP) at The Johns Hopkins Applied Physics Laboratory where she
+spends her summers working on foundational research in guidance, navigation, and control methods for hypersonic vehicles. She is on track to receive her Doctor of Philosophy in aerospace engineering from UF in August 2022.
 
-[{% include icon.html id="linkedin" color="#0366d6" %}](https://www.linkedin.com/in/elishapager)
 
-<!-- {% include icon_link.html id="linkedin" link="https://www.linkedin.com/in/elishapager" color="#0366d6" %} -->
+[{% include icon.html id="linkedin" color="#0366d6" %}](https://www.linkedin.com/in/elishapager) 
+[{% include icon.html id="github" color="#000000" %}](https://github.com/epager) 
+[{% include icon.html id="link" color="#3d85c6" %}](https://https://scholar.google.com/citations?hl=en&user=Z7tLVtAAAAAJ)
+

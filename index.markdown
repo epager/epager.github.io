@@ -17,5 +17,5 @@ spends her summers working on foundational research in guidance, navigation, and
 
 [{% include icon.html id="linkedin" color="#0366d6" %}](https://www.linkedin.com/in/elishapager) 
 [{% include icon.html id="github" color="#000000" %}](https://github.com/epager) 
-[{% include icon.html id="link" color="#3d85c6" %}](https://https://scholar.google.com/citations?hl=en&user=Z7tLVtAAAAAJ)
+[{% include icon.html id="link" color="#3d85c6" %}](https://scholar.google.com/citations?hl=en&user=Z7tLVtAAAAAJ)
 

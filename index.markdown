@@ -4,7 +4,7 @@
 title: About Me
 feature_text: |
     # Elisha Pager
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "figures/spacex--p-KCm6xB9I-unsplash.jpg"
 aside: false
 ---
 

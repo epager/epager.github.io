@@ -2,7 +2,7 @@
 title: Publications
 feature_text: |
   # Research
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/figures/spacex--p-KCm6xB9I-unsplash.jpg"
 aside: false
 permalink: /research/
 ---

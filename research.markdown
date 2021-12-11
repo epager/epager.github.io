@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Research
-permalink: /research/
+title: Publications
+feature_text: |
+  # Research
+feature_image: "https://picsum.photos/2560/600?image=873"
+aside: false
 ---
 
 #### Journal Articles:

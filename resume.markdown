@@ -1,8 +1,8 @@
 ---
-title: 
+title: Resume
 feature_text: |
-  # Resume
-feature_image: "/figures/spacex--p-KCm6xB9I-unsplash.jpg"
+
+feature_image: "/figures/horizon-972.jpg"
 aside: false
 permalink: /resume/
 ---

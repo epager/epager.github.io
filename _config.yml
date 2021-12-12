@@ -41,6 +41,17 @@ navigation_header:
     url: /resume/
   - title: Research
     url: /research/  
+  - title: Contact
+    url: /contact/  
+
+# Navigation Footer
+navigation_footer:
+  - title: Bio
+    url: /
+  - title: Contact Me
+    url: /contact/ 
+  - title: Search
+    url: /search/
 
 # Social Links
 social_links:

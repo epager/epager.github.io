@@ -3,6 +3,32 @@ title: false
 styles: true 
 ---
 
-$linkColour: #031ae2 !default;
+$backgroundColour: #eeeff8 !default;
+
+$headingColour: #1a2f85 !default;
+$bodyColour: #242d52 !default;
+$linkColour: #003cff !default;
+$hoverColour: #0c227d !default;
+
+$bodytype: (
+  font-family: "Times, Times New Roman, serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+a,
+a:link {
+    text-decoration: none;
+    font-weight: bold;
+  }
+a:visited {
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline;
+}
 
 @import "alembic";

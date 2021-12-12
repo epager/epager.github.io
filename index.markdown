@@ -16,7 +16,9 @@ My research is broadly in the area of computational optimal control, with a stro
 
 I was selected to join the Graduate Scholars Program (GSP) at The Johns Hopkins Applied Physics Laboratory where I get to spend my summers working on foundational research in guidance, navigation, and control methods for hypersonic vehicles. 
 
+{% include icon_links.html %}
+<!-- <div class="icon_links">
 [{% include icon.html id="linkedin" title="linkedin" color="#0077B5" %}](https://www.linkedin.com/in/elishapager) 
 [{% include icon.html id="github" title="github" color="#171515" %}](https://github.com/epager) 
 [{% include icon.html id="link" title="googlescholar" color="#6a329f" %}](https://scholar.google.com/citations?hl=en&user=Z7tLVtAAAAAJ)
-
+</div> -->

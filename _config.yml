@@ -42,9 +42,7 @@ navigation_header:
   - title: Research
     url: /research/  
   - title: Contact
-    url: /contact/ 
-  - title: 
-    url: /search/     
+    url: /contact/     
 
 # Navigation Footer
 navigation_footer:

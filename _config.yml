@@ -19,8 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Elisha Pager"
-email: "elisha.pager@gmail.com"
-description: >- "Aerospace Engineer" 
+email: "elisha.pager@gmail.comg"
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.elishapager.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  epager

@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Aerospace Engineer"
+title: "Elisha Pager"
 email: "elisha.pager@gmail.com"
-description: >- Aerospace Engineer
+description: >- "Aerospace Engineer" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.elishapager.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  epager

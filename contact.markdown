@@ -7,6 +7,6 @@ aside: false
 permalink: /contact/
 ---
 
-**Email:** epager@ufl.edu
+**Email:** elisha.pager@gmail.com
 
 {% include site-form.html %}

@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Elisha Pager 
+title: Elisha Pager, Ph.D. 
 feature_text: |
     
 feature_image: "figures/horizon-972.jpg"
@@ -10,11 +10,9 @@ aside: false
 
 {% include figure.html image="/figures/pager-elisha-bio.jpg" position="right" %}
 
-I am a PhD candidate in Mechanical and Aerospace Engineering at the University of Florida on track to receive my PhD in August 2022. I received my BSE and MS from the University of Florida in 2018, and 2020, respectively. I joined the Vehicle Dynamics and Optimization Laboratory [(VDOL)](http://www.anilvrao.com/Research.html ) in August 2018 to work on my research under Dr. Anil Rao.
+I currently am an aerospace engineer at the Johns Hopkins University Applied Physics Laboratory where my work involves further advancing trajectory optimization methods for various aerospace applications. I received a PhD in aerospace engineering from the University of Florida in August 2022 where I worked in the Vehicle Dynamics and Optimization Laboratory [(VDOL)](http://www.anilvrao.com/Research.html ) under Dr. Anil Rao. I received my BSE and MS from the University of Florida in 2018 and 2020, respectively. 
 
-My research is broadly in the area of computational optimal control, with a strong emphasis on nonsmooth and singular systems and applications to aerospace problems. My overall goal is to develop new computational tools that solve nonsmooth and singular optimal control problems. The intent of doing so is to obtain optimal and sub-optimal solutions of nonsmooth and singular problems across a wide spectrum of applications.
-
-I was selected to join the Graduate Scholars Program (GSP) at The Johns Hopkins Applied Physics Laboratory where I get to spend my summers working on foundational research in guidance, navigation, and control methods for hypersonic vehicles. 
+My research interests are broadly in the areaa of computational and numerical methods for optimal control, with a strong emphasis on nonsmooth and singular systems with applications to aerospace problems. My overall goal is to develop new computational tools that solve nonsmooth and singular optimal control problems. The intent of doing so is to obtain optimal and sub-optimal solutions of nonsmooth and singular problems across a wide spectrum of applications.
 
 {% include icon_links.html %}
 <!-- <div class="icon_links">

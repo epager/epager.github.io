@@ -16,8 +16,7 @@ permalink: /resume/
 ### Education
 
 **University of Florida** \
-Ph.D., Aerospace Engineering - expected August 2022 \
-Advancement to Ph.D candidacy May 2021
+Ph.D., Aerospace Engineering - August 2022 
 
 **University of Florida** \
 M.S., Mechanical Engineering - May 2020 
@@ -33,6 +32,11 @@ Department of Mechanical and Aerospace Engineering - (August 2018 - May 2023)
 Center for Undergraduate Research - (August 2017 - May 2018) 
 
 ### Work Experience
+
+* **The Johns Hopkins University Applied Physics Laboratory** \
+Senior Professional Staff I: September 2022 - Present \
+    * Apply guidance and optimal control theory to a range of dynamic systems to solve complex technical problems for both simulation and flight test applications
+    * Perform research in trajectory optimization methods  
 
 * **The Johns Hopkins University Applied Physics Laboratory** \
 Graduate Scholars Program Intern: May 2020 - August 2020 \
@@ -66,10 +70,11 @@ Undergraduate Research Assistant: January 2017 - June 2018
 
 * **Sigma Gamma Tau** - Aerospace Engineering Honors Society \
 University of Florida, Department of Mechanical and Aerospace Engineering \
-Member: January 2021 - Present 
+Member: January 2021 - August 2022 
 
 * **American Institute of Aeronautics and Astronautics**  \
-Graduate Student Member: August 2018 - Present 
+Young Professional: September 2022 - Present 
+Graduate Student Member: August 2018 - August 2022 
 
 * **American Institute of Aeronautics and Astronautics** - University of Florida Chapter \
 Vice President Departmental: August 2016 - May 2018 \

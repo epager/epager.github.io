@@ -73,7 +73,7 @@ University of Florida, Department of Mechanical and Aerospace Engineering \
 Member: January 2021 - August 2022 
 
 * **American Institute of Aeronautics and Astronautics**  \
-Young Professional: September 2022 - Present 
+Young Professional: September 2022 - Present \
 Graduate Student Member: August 2018 - August 2022 
 
 * **American Institute of Aeronautics and Astronautics** - University of Florida Chapter \
